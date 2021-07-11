@@ -1,9 +1,9 @@
 title: Tenfold Path
 
-# livereload: true
+livereload: true
 
 email: dragan@tenfoldpath.com
-url: https://dragandim.github.io/tenfoldpath.com
+url: https://www.tenfoldpath.com
 owner: "Dragan Dimitrijevic"
 description: "Software Engineer - Freelancer"
 cvr: "36128801"
@@ -16,16 +16,13 @@ color:
 # Footer settings
 footer: Tenfold Path
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
   - title: web
+    icon: globe
     url: https://dragandimitrijevic.com
-  - title: github
-    url: https://github.com/dragandim
+  - title: facebook
+    icon: facebook
+    url: http://www.facebook.com/dragan.dimitrijevic.7737
 
 markdown: kramdown
 
