@@ -17,9 +17,9 @@ color:
 footer: Tenfold Path
 
 social:
-  - title: web
-    icon: globe
-    url: https://dragandimitrijevic.com
+  # - title: web
+  #   icon: globe
+  #   url: https://dragandimitrijevic.com
   - title: facebook
     icon: facebook
     url: http://www.facebook.com/dragan.dimitrijevic.7737
